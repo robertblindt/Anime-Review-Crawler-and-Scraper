@@ -1,5 +1,7 @@
 # Anime-Review-Crawler-and-Scraper
  This is a learning project intended to teach myself about general Python functions, troublshooting, and webscraping.  It updates Seng Chu's 'mal-review-scraper' project to work with the current state of the 'MyAnimeList.net'. (as of November 2022)
+ There is a detailed report about how everything works, and why I am treating the data the way I am called `Anime-Review-Scraper-Project.ipynb`.
+ The database is about 700 MB so I can not post it to github unfortunately, but the structure and scraping should be easy to recreate.  Feel free to reach out and I will be happy to send it over.
 
 ## **Project & Work Product Description**
 - **Main Goals:** 
